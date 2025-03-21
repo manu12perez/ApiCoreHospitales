@@ -1,0 +1,6 @@
+@ApiCoreHospitales_HostAddress = http://localhost:5068
+
+GET {{ApiCoreHospitales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
